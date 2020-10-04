@@ -1,25 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf616680.chunk.css",
-    "main.js": "/static/js/main.a7817c64.chunk.js",
-    "main.js.map": "/static/js/main.a7817c64.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.40fd9fda.js",
-    "runtime-main.js.map": "/static/js/runtime-main.40fd9fda.js.map",
-    "static/css/2.220ccb42.chunk.css": "/static/css/2.220ccb42.chunk.css",
-    "static/js/2.39f99102.chunk.js": "/static/js/2.39f99102.chunk.js",
-    "static/js/2.39f99102.chunk.js.map": "/static/js/2.39f99102.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ec5418f6e2702f82ad772841355b66b2.js": "/precache-manifest.ec5418f6e2702f82ad772841355b66b2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.220ccb42.chunk.css.map": "/static/css/2.220ccb42.chunk.css.map",
-    "static/css/main.bf616680.chunk.css.map": "/static/css/main.bf616680.chunk.css.map",
-    "static/js/2.39f99102.chunk.js.LICENSE.txt": "/static/js/2.39f99102.chunk.js.LICENSE.txt"
+    "main.js": "/Todo/static/js/main.d9119030.chunk.js",
+    "moment.js": "/Todo/static/js/moment.035d571b.chunk.js",
+    "react.css": "/Todo/static/css/react.cb2a62c1.chunk.css",
+    "react.js": "/Todo/static/js/react.86c3989f.chunk.js",
+    "runtime-main.js": "/Todo/static/js/runtime-main.ca4c7b70.js",
+    "index.html": "/Todo/index.html",
+    "precache-manifest.a4ab95d9cf217ae1b5a40731154c4d73.js": "/Todo/precache-manifest.a4ab95d9cf217ae1b5a40731154c4d73.js",
+    "service-worker.js": "/Todo/service-worker.js",
+    "static/js/moment.035d571b.chunk.js.LICENSE.txt": "/Todo/static/js/moment.035d571b.chunk.js.LICENSE.txt",
+    "static/js/react.86c3989f.chunk.js.LICENSE.txt": "/Todo/static/js/react.86c3989f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.40fd9fda.js",
-    "static/css/2.220ccb42.chunk.css",
-    "static/js/2.39f99102.chunk.js",
-    "static/css/main.bf616680.chunk.css",
-    "static/js/main.a7817c64.chunk.js"
+    "static/js/runtime-main.ca4c7b70.js",
+    "static/js/moment.035d571b.chunk.js",
+    "static/css/react.cb2a62c1.chunk.css",
+    "static/js/react.86c3989f.chunk.js",
+    "static/js/main.d9119030.chunk.js"
   ]
 }
